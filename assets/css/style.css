@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+   font-family: "Inter", sans-serif;
+}
+.bg-main {
+    background-color: rgb(0, 176, 116);
+}
+.logotext {
+    color:rgb(0, 176, 116) ;
+}
+
+.fs-7 {
+    font-size: 15px;
+}
+.fs-8 {
+    font-size:17px ;
+}
